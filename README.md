@@ -1,2 +1,2 @@
-# ejerciciosClases
-# JUAN SEBASTIAN CANO VASQUEZ - 02230131036
+# Ejercicios en clases.
+# JUAN SEBASTIAN CANO VASQUEZ - 02230131036.
